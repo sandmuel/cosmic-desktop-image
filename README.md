@@ -1,13 +1,13 @@
-# Vanilla OS Desktop Image
+# Vanilla OS Cosmic Image
 
-Containerfile for building a Vanilla OS Desktop image.
+Containerfile for building a Cosmic Flavor of the Vanilla OS Desktop image.
 
-This image is based on top of [`vanillaos/core`](https://github.com/Vanilla-OS/core-image/pkgs/container/core) and offers the default
-Vanilla OS Desktop experience with GNOME.
+This image is based on top of [`vanillaos/desktop-image`](https://github.com/Vanilla-OS/desktop-image) and offers a 
+Cosmic Flavor of the Vanilla OS Desktop experience.
 
 ## Build
 
 ```bash
 sh prepare.sh
-podman image build -t vanillaos/desktop .
+podman image build -t vanillaos/cosmic-desktop-image .
 ```
