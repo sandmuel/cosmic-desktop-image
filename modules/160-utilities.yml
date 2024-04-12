@@ -8,4 +8,5 @@ source:
   - gnome-software
   - ghostscript
   - zenity
-  - adwdialog
+  - flatpak
+  - gnome-software-plugin-flatpak

@@ -5,14 +5,13 @@ source:
   - fonts-cantarell
   - fonts-dejavu-core
   - fonts-freefont-ttf
-  - fonts-noto-color-emoji
   - fonts-indic
   - fonts-kacst-one
   - fonts-khmeros
   - fonts-lao
   - fonts-liberation
   - fonts-lklug-sinhala
-  - fonts-noto-cjk
+  - fonts-noto
   - fonts-sil-abyssinica
   - fonts-sil-padauk
   - fonts-thai-tlwg

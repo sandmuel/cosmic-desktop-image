@@ -4,13 +4,13 @@ source:
   type: git
   url: https://github.com/Vanilla-OS/apx-gui
   branch: main
-  tag: v0.1.1
+  commit: latest
 modules:
 - name: apx-gui-deps-install
   type: apt
   source:
     packages:
-    - meson
     - build-essential
-    - libadwaita-1-dev
     - gettext
+    - libadwaita-1-dev
+    - meson

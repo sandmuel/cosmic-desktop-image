@@ -5,9 +5,8 @@ source:
   - nautilus
   - nautilus-share
 
-  - gnome-console
   - gnome-bluetooth
-  - gnome-online-accounts
-  - gnome-menus
   - gnome-color-manager
-  - gnome-control-center
+  - gnome-
+  - gnome-menus
+  - gnome-online-accounts
